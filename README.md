@@ -1,2 +1,2 @@
-# book-CLRS
+# CLRS
 
